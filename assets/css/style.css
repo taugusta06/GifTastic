@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(../images/circuit.png);
+    background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+
+p {
+    color: purple;
+    font-weight: bold;
+    width: 110px;
+    background-color: black;
+}
+
+.gifCont{
+    max-width: 50%;
+}
+h3 {
+    color: purple;
+    font-weight: bold;
+    width: 500px;
+    background-color: black;
+}
